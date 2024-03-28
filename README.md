@@ -1,2 +1,0 @@
-# jjclothing
-clothing website
